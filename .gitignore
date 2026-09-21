@@ -1,0 +1,6 @@
+# Add .venv and .venv311 folders
+.venv/
+.venv311/
+
+*.pdf
+*.docx
